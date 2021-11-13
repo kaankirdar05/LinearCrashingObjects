@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class LinearCrashingObjects
+{
+  public static void main(String[] args)
+  {
+    
+  }
+  
+  public static double energy(double m, double v)
+  {
+    return 1/2*m*Math.pow(v,2);
+  }
+}
