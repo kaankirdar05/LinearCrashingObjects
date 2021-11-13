@@ -1,3 +1,3 @@
 # LinearCrashingObjects
-Calculating objects velocity after colliding
+Calculating objects velocity after colliding.
 Objects are moving in a line
